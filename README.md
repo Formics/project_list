@@ -1,13 +1,4 @@
-# Project_List
-List of Project Ideas: 
+# Projects Lists
 
-Sport Niche Stuff Below : 
-
-School Activities and Clubs Managment Software
-
-Athletic Practice Schedule Creator and Runner - controls the creation of a practice, sharing it with coaches and integerates iwth the service above. 
-
-Heartbeat + GPS system for highschool atheltes plus weight trackng for overall health tracking. 
-
-
-Justice put what you want here.
+Bunch of projects seperated into seperates files. We will work on one till its demoable and then we will try to see if we can get any customers who would want to use it. Approach is build shit fast, if customers make better else pivot.
+s
